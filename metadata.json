@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio",
+  "description": "An AI-powered application to generate high-end photography from text descriptions using Imagen 4. It also includes a powerful image editor allowing users to modify images with simple text prompts using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
